@@ -1,2 +1,4 @@
 hippo
 goat
+dog
+cat
